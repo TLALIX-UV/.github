@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/tlalix-logo-futuristic.svg" width="180" alt="Tlalix logo"/>
-</p>
+  <img width="671" height="573" alt="image" src="https://github.com/user-attachments/assets/bb783a48-9249-4c0e-9cd2-de25177d4195" />
 
 <h1 align="center">
   <b>Tlalix</b>
