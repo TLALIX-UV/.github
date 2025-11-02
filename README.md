@@ -4,7 +4,10 @@
 
 <h1 align="center">
 <div align="center">
- <B>TLALIX</B>
+width="109" height="108" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
+ <B>TLALIX</B><img width="109" height="108" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
+
+<h1 align="center">
 </div>
   <br>
   <img src="https://img.shields.io/badge/Remesas%20del%20Futuro-Web3%20%7C%20Stablecoins%20%7C%20AI-1e88e5?style=for-the-badge&logo=verizon&logoColor=white"/>
