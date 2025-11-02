@@ -1,37 +1,136 @@
-# Tlalix — Remesas Rápidas, Justas y Humanas
-**Facultad de Administración — Universidad Veracruzana (Región Veracruz)**  
-Administrado por alumnos de la carrera **Tecnologías de la Información en las Organizaciones**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/tlalix-logo-color.svg" width="180" alt="Tlalix logo"/>
+</p>
 
-> Enviar remesas no es una transacción: es decir "Sigo contigo."  
-> Tlalix hace que ese apoyo llegue completo y sin complicaciones: rápido, justo y humano.
+<h1 align="center">
+  <b>Tlalix</b><br>
+  <img src="https://img.shields.io/badge/Remesas-M%C3%A1s%20Humanas-%23e53935?style=for-the-badge&logo=verizon&logoColor=white"/>
+</h1>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Comisión-1.5%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entrega%20en%20efectivo-México-%23fbc02d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web3-Seguro%20%26%20Transparente-%231e88e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stablecoins-USDC%2FDAI-%2343a047?style=for-the-badge"/>
+</p>
 
-## Qué es Tlalix
-Tlalix es una plataforma de remesas que combina la simplicidad de WhatsApp con la seguridad y transparencia de Web3.  
-Objetivo: reducir comisiones injustas, garantizar la llegada del valor (stablecoins) y facilitar cobros en efectivo a quienes no tienen cuenta bancaria usando una red de *tienditas*.
+<br>
 
-Principales características:
-- Envío con un comando de WhatsApp (ej.: `Tlalix, envía $100 a mamá`)
-- Recepción mediante QR en tiendas afiliadas (sin contar con banca ni apps complejas)
-- Stablecoins (USDC/DAI) para que lo que mandes llegue como valor estable
-- Smart contracts (Solidity) para custodiar fondos y auditoría
-- ENS para identidades legibles
-- Pensado para Scroll (L2) o cualquier L2 compatible con EVM
-
----
-
-## Estructura del repo
-Explicada en el árbol del proyecto. Incluye:
-- `contracts/`: contrato Solidity
-- `backend/`: API que interactúa con blockchain y envía mensajes (WhatsApp)
-- `frontend/`: SPA (React + Vite) para demo de flujo de envío/recepción
-- `scripts/`, `test/` y configuración de Hardhat
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/remesas-mexico.svg" alt="Remesas México" width="80%"/>
+</p>
 
 ---
 
-## Empezar localmente (resumen rápido)
-1. Clona el repo:
-```bash
-git clone https://github.com/tu-usuario/tlalix.git
-cd tlalix
+# 🌱 ¿Por qué Tlalix?
+
+> Hoy, millones de familias mexicanas dependen de las remesas para comer, estudiar y sostener su día a día.<br>
+> Pero enviar dinero no es tan simple como debería ser: aunque el dinero viaje, <b>no siempre llega completo</b>.
+
+### 🛑 El sistema actual no está hecho para las familias
+
+- Las comisiones pueden llegar al **8%**
+- El tipo de cambio injusto hace que las familias reciban **200 a 600 pesos menos al mes** (¡una semana de comida!)
+- El **67% en México** no tiene cuenta bancaria: significa hacer filas, perder tiempo, arriesgarse o depender de terceros
+- Solo en Latinoamérica, las familias pierden más de **$155,000,000,000 USD** al año solo en comisiones y tipos de cambio
+
+> Porque **enviar dinero no es una transacción**.<br>
+> Es decir:  
+> “Sigo contigo.”  
+> “Sigo siendo parte de nuestra casa.”  
+> “Mi raíz sigue ahí.”
+
+---
+
+# 🌎 ¿Cómo funciona Tlalix?
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <b>En USA 🇺🇸</b><br>
+  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/us-whatsapp.svg" width="120"/><br>
+  <ul align="left">
+    <li>Envía un WhatsApp: <code>Tlalix, envía $100 a mamá</code></li>
+    <li>Confirmas</li>
+    <li>Pagas con tarjeta o crypto</li>
+    <li><b>¡Listo en menos de 30 segundos!</b></li>
+  </ul>
+</td>
+<td width="50%" align="center">
+  <b>En México 🇲🇽</b><br>
+  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/mx-cash.svg" width="120"/><br>
+  <ul align="left">
+    <li>Recibe un mensaje</li>
+    <li>Da clic en <b>Retirar</b></li>
+    <li>Muestra un QR en una tiendita u Oxxo</li>
+    <li>Recibe efectivo, <b>sin bancos, sin apps difíciles</b></li>
+  </ul>
+</td>
+</tr>
+</table>
+
+---
+
+## 💸 Beneficios para todos
+
+| Para quien envía | Para quien recibe | Para las tienditas |
+|:----------------:|:----------------:|:------------------:|
+| 1.5% de comisión | Efectivo sin banco | Ganan 0.5% por retiro |
+| Tipo de cambio justo | Sin apps complicadas | Atraen más clientes |
+| 30 segundos, sin filas | Red de miles de puntos | Nuevos ingresos |
+
+---
+
+# ⚡️ <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/tech-icon.svg" width="28"/> Tecnología que cuida a tu familia
+
+Detrás de esa simplicidad hay infraestructura Web3 diseñada para **seguridad, transparencia y velocidad**:
+
+- 🟣 **ENS:** Identidades fáciles de recordar
+- 🟢 **Scroll (L2):** Transacciones rápidas y baratas
+- 🟠 **Smart Contracts Solidity:** Fondos seguros y auditables
+- 🔵 **Stablecoins USDC/DAI:** Si mandas 100, llegan 100
+
+---
+
+# 💼 Modelo de Negocio
+
+- **1.5%** por remesas
+- Pago de nóminas internacionales (empresas con equipos en México)
+- Tienditas ganan **0.5%** por cada retiro, incentivando la expansión de la red
+
+---
+
+# 🌄 ¿Por qué se llama Tlalix?
+
+> Tlalix proviene de la raíz náhuatl <b>tlalli</b>: tierra, suelo, origen, hogar.<br>
+> Es el lugar donde nacemos, donde crecen nuestras raíces y el espacio al que siempre volvemos, aunque la vida nos lleve lejos.
+
+Enviar remesas no es solo mover dinero:  
+es sostener el hogar, mantener viva la raíz,  
+es decir: **“sigo contigo, aunque no esté ahí.”**
+
+Tlalix honra la tradición y la cultura mexicana, desde lo profundo:  
+la conexión, la presencia, el cuidado y la pertenencia.  
+**Tlalix significa volver a tu origen.**  
+Lo que envías, vuelve a la raíz.
+
+---
+
+<p align="center">
+  <a href="https://app.tlalix.app" target="_blank">
+    <img src="https://img.shields.io/badge/Envía%20dinero%20ahora-%23e53935?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5215555555555?text=Hola%20Tlalix%2C%20quiero%20enviar%20dinero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-%2343d854?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EMMANUELVELASQUEZ/mexican-assets/main/talavera-border.svg" width="90%"/>
+</p>
+
+<p align="center">
+  <b>“Sigo contigo, aunque no esté ahí.”</b>
+</p>
