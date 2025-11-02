@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <div align="center">
-width="109" height="108" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
+<IMG width="109" height="108" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
  <B>TLALIX</B><img width="109" height="108" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/67da773e-9458-4e32-9fc7-f431c3c2b2e8" />
 
 <h1 align="center">
