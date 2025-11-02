@@ -1,0 +1,37 @@
+# Tlalix — Remesas Rápidas, Justas y Humanas
+**Facultad de Administración — Universidad Veracruzana (Región Veracruz)**  
+Administrado por alumnos de la carrera **Tecnologías de la Información en las Organizaciones**
+
+> Enviar remesas no es una transacción: es decir "Sigo contigo."  
+> Tlalix hace que ese apoyo llegue completo y sin complicaciones: rápido, justo y humano.
+
+---
+
+## Qué es Tlalix
+Tlalix es una plataforma de remesas que combina la simplicidad de WhatsApp con la seguridad y transparencia de Web3.  
+Objetivo: reducir comisiones injustas, garantizar la llegada del valor (stablecoins) y facilitar cobros en efectivo a quienes no tienen cuenta bancaria usando una red de *tienditas*.
+
+Principales características:
+- Envío con un comando de WhatsApp (ej.: `Tlalix, envía $100 a mamá`)
+- Recepción mediante QR en tiendas afiliadas (sin contar con banca ni apps complejas)
+- Stablecoins (USDC/DAI) para que lo que mandes llegue como valor estable
+- Smart contracts (Solidity) para custodiar fondos y auditoría
+- ENS para identidades legibles
+- Pensado para Scroll (L2) o cualquier L2 compatible con EVM
+
+---
+
+## Estructura del repo
+Explicada en el árbol del proyecto. Incluye:
+- `contracts/`: contrato Solidity
+- `backend/`: API que interactúa con blockchain y envía mensajes (WhatsApp)
+- `frontend/`: SPA (React + Vite) para demo de flujo de envío/recepción
+- `scripts/`, `test/` y configuración de Hardhat
+
+---
+
+## Empezar localmente (resumen rápido)
+1. Clona el repo:
+```bash
+git clone https://github.com/tu-usuario/tlalix.git
+cd tlalix
