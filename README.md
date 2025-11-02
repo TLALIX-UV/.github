@@ -4,7 +4,7 @@
 
 <h1 align="center">
 <div align="center">
-  <img src="./tlalix-logo.svg" alt="Logo de Tlalix" width="300"/>
+ <B>TLALIX</B>
 </div>
   <br>
   <img src="https://img.shields.io/badge/Remesas%20del%20Futuro-Web3%20%7C%20Stablecoins%20%7C%20AI-1e88e5?style=for-the-badge&logo=verizon&logoColor=white"/>
