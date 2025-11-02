@@ -137,5 +137,6 @@ Tlalix redefine el envío de remesas con una experiencia simple, segura y transp
 
 <p align="center">
   <b>“Sigo contigo, aunque no esté ahí.”</b><br>
-  <img src="https://img.shields.io/badge/Web3%20%7C%20AI%20%7C%20Stablecoins-El%20futuro%20de%20las%20remesas-2962ff?style=for-the-badge"/>
+  <img width="1920" height="1080" alt="Red and White Corporate Fintech Presentation" src="https://github.com/user-attachments/assets/11d17fb0-3f6f-4b0d-bd66-d2122c96162a" />
+
 </p>
